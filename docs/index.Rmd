@@ -1,0 +1,58 @@
+---
+title: "P-value categories: Project Page"
+#author: "VNV Rao"
+#date: "6/16/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Project Team
+
+In alphabetical order: 
+
+- Jeffrey K. Bye
+- Sashank Varma
+- V.N. Vimal Rao
+
+# Introduction to the Project
+
+In 2019, the American Statistical Association issued a statement decrying the categorization of *p*-values into so-called *statistically significant* and not statistically significant categories^[Wasserstein, R. L., Schirm, A. L., & Lazar, N. A. (2019). Moving to a World Beyond “p< 0.05”. American Statistician, 73(sup1), 1-19.]. They go further, and envision a world beyond '*p*<.05', and urge researchers to stop using the term *statistically significant* or any other categorization of *p*-values. 
+
+However, moving into a *p*<.05 world may not be so straight forward -- categorization can fundamentally alter the way we perceive stimuli. In this project, we investigate whether the *statistically significant* category, entrenched in instruction and practice, has had an effect on our cognition, specifically the mental representation of probabilities as *p*-values, and if so, what effect it has had and strategies to remedy the effect. 
+
+
+# Results from the Pilot Study
+
+The initial study was conducted by V.N. Vimal Rao in the Spring of 2020 as a pilot study for a research seminar on Mathematical Cognition taught by Dr. Sashank Varma. With Dr. Jeffrey K. Bye immediately joining the project, preliminary results based on the original term paper were first shared at the University of Minnesota's [Center for Cognitive Sciences](http://www.cogsci.umn.edu/about.shtml) 2020 Spring Research Day as a poster presentation. 
+
+The term paper was then edited by all three project members and interpreted in terms of its implications for teaching and presented at the American Educational Research Association's [2021 Annual Meeting](https://tinyurl.com/y2rbfxcy). 
+
+Feedback from AERA and new analyses of the data were then incorporated into a paper submitted to the Cognitive Science Society's 2021 Annual Meeting which interpreted the project in terms of its implications for cognition. This paper won the conference's [Disciplinary Diversity & Integration Award](https://cognitivesciencesociety.org/conference-awards/). 
+
+These results, re-interpreted with implications for practice, were then presented one final time to the U.K.'s Psychology Post-graduate Affairs Group's [2021 Annual Conference](https://psypagconference.co.uk/). 
+
+UMN CCS SRD 2020: 
+
+- Presentation: [https://flipgrid.com/eacbc4b5](https://flipgrid.com/eacbc4b5)
+
+AERA 2021: 
+
+- Paper: 
+
+CogSci 2021: 
+
+- Paper:
+- Presentation: 
+
+PsyPAG 2021: 
+
+- [Program Link](https://docs.google.com/document/d/1oejfervYtNeH36UM9qfasMpIgnqEw8vW0BVm_pxI6J8/)
+
+
+# Follow-up Study
+
+We are currently working on a follow-up study to expand the experimental tasks, the number of stimuli per task, and the number and type of participants. After the study is complete, we will begin writing a manuscript. 
+
