@@ -1,12 +1,11 @@
 ---
 title: "P-value categories: Project Page"
-#author: "VNV Rao"
-#date: "6/16/2021"
-output: html_document
+output: rmdformats::readthedown
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
 ```
 
 # Project Team
