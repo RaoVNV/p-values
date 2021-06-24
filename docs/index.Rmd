@@ -14,7 +14,7 @@ In alphabetical order:
 
 - Jeffrey K. Bye
 - Sashank Varma
-- [V.N. Vimal Rao](https://raovnv.github.io)
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
 
 # Introduction to the Project
 
@@ -39,12 +39,13 @@ UMN CCS SRD 2020:
 
 AERA 2021: 
 
-- Paper: [Preprint](https://github.com/RaoVNV/p-values/blob/main/AERA%202021%20Paper%20Rao%20Bye%20and%20Varma.pdf) *Note, this paper is an unpublished first draft. 
+- Paper: This paper is an unpublished first draft. For a preprint, please contact [V.N. Vimal Rao](mailto: rao00013@umn.edu).
 
 CogSci 2021: 
 
-- Paper: [Preprint](https://github.com/RaoVNV/p-values/blob/main/Cog%20Sci%202021%20Paper%20Rao%20Bye%20and%20Varma.pdf) *Note, this paper will be published in the conference proceedings. 
 - Presentation: [Video Recording](https://drive.google.com/file/d/1ckQI2zmw_HidWjEheJQKkiuVlCADJKhu/view?usp=sharing)
+- Paper: This paper will be publised in the conference proceedings. For a preprint, please contact [V.N. Vimal Rao](mailto: rao00013@umn.edu).
+
 
 PsyPAG 2021: 
 
