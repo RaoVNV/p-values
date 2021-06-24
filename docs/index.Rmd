@@ -14,7 +14,7 @@ In alphabetical order:
 
 - Jeffrey K. Bye
 - Sashank Varma
-- V.N. Vimal Rao
+- [V.N. Vimal Rao](https://raovnv.github.io)
 
 # Introduction to the Project
 
@@ -51,7 +51,7 @@ PsyPAG 2021:
 - [Program Link](https://docs.google.com/document/d/1oejfervYtNeH36UM9qfasMpIgnqEw8vW0BVm_pxI6J8/)
 
 
-# Follow-up Study
+# Next Steps
 
 We are currently working on a follow-up study to expand the experimental tasks, the number of stimuli per task, and the number and type of participants. After the study is complete, we will begin writing a manuscript. 
 
