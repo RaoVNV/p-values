@@ -44,15 +44,24 @@ AERA 2021:
 CogSci 2021: 
 
 - Presentation: [Video Recording](https://drive.google.com/file/d/1ckQI2zmw_HidWjEheJQKkiuVlCADJKhu/view?usp=sharing)
-- Paper: This paper will be publised in the conference proceedings. For a preprint, please contact [V.N. Vimal Rao](mailto: rao00013@umn.edu).
-
+- Paper: This paper will be published in the conference proceedings. For a preprint, please contact [V.N. Vimal Rao](mailto: rao00013@umn.edu).
 
 PsyPAG 2021: 
 
-- [Program Link](https://docs.google.com/document/d/1oejfervYtNeH36UM9qfasMpIgnqEw8vW0BVm_pxI6J8/)
+- Abstract: [Download](https://github.com/RaoVNV/p-values/raw/main/PsyPag%202021%20Abstract%20Rao.docx)
+- Presentation: [Video Recording](https://tinyurl.com/RaoPsyPAG2021)
 
 
 # Next Steps
 
 We are currently working on a follow-up study to expand the experimental tasks, the number of stimuli per task, and the number and type of participants. After the study is complete, we will begin writing a manuscript. 
 
+# Citations
+
+Rao, V.N.V. (2021, July). *More than just a name: The psychological effects of ‘Statistical Significance’* [Oral presentation]. The 36th Annual Psychology Postgraduate Affairs Group Conference, online. 
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, July). *Categorical perception of p-values* [Paper presentation]. Annual Meeting of the Cognitive Science Society, Vienna, Austria.
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, April). *The psychological reality of the learned “p < 0.05” barrier* [Paper presentation]. Annual Meeting of the American Educational Research Association, virtual.
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2020, June). *Mental representation of p-values: Does a categorical perception effect exist?* [Poster presentation]. University of Minnesota Center for Cognitive Sciences Spring Research Day, Minneapolis, Minnesota.
