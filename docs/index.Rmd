@@ -27,29 +27,21 @@ However, moving into a *p*<.05 world may not be so straight forward -- categoriz
 
 The initial study was conducted by V.N. Vimal Rao in the Spring of 2020 as a pilot study for a research seminar on Mathematical Cognition taught by Dr. Sashank Varma. With Dr. Jeffrey K. Bye immediately joining the project, preliminary results based on the original term paper were first shared at the University of Minnesota's [Center for Cognitive Sciences](http://www.cogsci.umn.edu/about.shtml) 2020 Spring Research Day as a poster presentation. 
 
-The term paper was then edited by all three project members and interpreted in terms of its implications for teaching and presented at the American Educational Research Association's [2021 Annual Meeting](https://tinyurl.com/y2rbfxcy). 
-
-Feedback from AERA and new analyses of the data were then incorporated into a paper submitted to the Cognitive Science Society's 2021 Annual Meeting which interpreted the project in terms of its implications for cognition. This paper won the conference's [Disciplinary Diversity & Integration Award](https://cognitivesciencesociety.org/conference-awards/). 
-
-These results, re-interpreted with implications for practice, were then presented one final time to the U.K.'s Psychology Post-graduate Affairs Group's [2021 Annual Conference](https://psypagconference.co.uk/). 
-
-UMN CCS SRD 2020: 
-
 - Presentation: [https://flipgrid.com/eacbc4b5](https://flipgrid.com/eacbc4b5)
 
-AERA 2021: 
+The data were then re-examined by all team members and interpreted in terms of its implications for teaching. This work was presented at the American Educational Research Association's [2021 Annual Meeting](https://tinyurl.com/y2rbfxcy). 
 
 - Paper: This paper is an unpublished first draft. For a preprint, please contact [V.N. Vimal Rao](mailto: rao00013@umn.edu).
 
-CogSci 2021: 
+Feedback from AERA and new analyses of the data were then incorporated into a paper submitted to the Cognitive Science Society's 2021 Annual Meeting, which interpreted the project in terms of its implications for cognition. This paper won the conference's [Disciplinary Diversity & Integration Award](https://cognitivesciencesociety.org/conference-awards/). 
 
-- Presentation: [Video Recording](https://drive.google.com/file/d/1ckQI2zmw_HidWjEheJQKkiuVlCADJKhu/view?usp=sharing)
+- Presentation: [Video Recording](https://tinyurl.com/RaoByeVarma2021CogSci)
 - Paper: This paper will be published in the conference proceedings. For a preprint, please contact [V.N. Vimal Rao](mailto: rao00013@umn.edu).
 
-PsyPAG 2021: 
+These results, re-interpreted with implications for practice, were then presented one final time to the U.K.'s Psychology Post-graduate Affairs Group's [2021 Annual Conference](https://psypagconference.co.uk/). 
 
-- Abstract: [Download](https://github.com/RaoVNV/p-values/raw/main/PsyPag%202021%20Abstract%20Rao.docx)
 - Presentation: [Video Recording](https://tinyurl.com/RaoPsyPAG2021)
+- Paper Abstract: [Download](https://github.com/RaoVNV/p-values/raw/main/PsyPag%202021%20Abstract%20Rao.docx)
 
 
 # Next Steps
@@ -58,12 +50,12 @@ We are currently working on a follow-up study to expand the experimental tasks, 
 
 # Citations
 
-Rao, V.N.V., Bye, J.K., & Varma, S. (2021). Categorical perception of p-values. In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* (pp. 168-173).
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021). Categorical perception of p-values. In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* (pp. 168-173). Retrieved from https://escholarship.org/uc/item/7hw3s1rs.
 
-Rao, V.N.V., Bye, J.K., & Varma, S. (2021, July). *More than just a name: The psychological effects of ‘Statistical Significance’* [Oral presentation]. The 36th Annual Psychology Postgraduate Affairs Group Conference, online. 
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, July). *More than just a name: The psychological effects of ‘Statistical Significance’* [Oral presentation]. The 36th Annual Psychology Postgraduate Affairs Group Conference, online. Available at https://tinyurl.com/RaoPsyPAG2021
 
-Rao, V.N.V., Bye, J.K., & Varma, S. (2021, July). *Categorical perception of p-values* [Paper presentation]. Annual Meeting of the Cognitive Science Society, Vienna, Austria.
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, July). *Categorical perception of p-values* [Paper presentation]. Annual Meeting of the Cognitive Science Society, Vienna, Austria. Available at https://tinyurl.com/RaoByeVarma2021CogSci
 
 Rao, V.N.V., Bye, J.K., & Varma, S. (2021, April). *The psychological reality of the learned “p < 0.05” barrier* [Paper presentation]. Annual Meeting of the American Educational Research Association, virtual.
 
-Rao, V.N.V., Bye, J.K., & Varma, S. (2020, June). *Mental representation of p-values: Does a categorical perception effect exist?* [Poster presentation]. University of Minnesota Center for Cognitive Sciences Spring Research Day, Minneapolis, Minnesota.
+Rao, V.N.V., Bye, J.K., & Varma, S. (2020, June). *Mental representation of p-values: Does a categorical perception effect exist?* [Poster presentation]. University of Minnesota Center for Cognitive Sciences Spring Research Day, Minneapolis, Minnesota. Retrieved from https://flipgrid.com/eacbc4b5
