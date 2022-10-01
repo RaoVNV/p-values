@@ -24,6 +24,10 @@ However, moving into a *p*<.05 world may not be so straight forward -- categoriz
 
 # Publications and Presentations
 
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022, May). *Graduate students in the psychological sciences perceive at categorical boundary when processing p-values across the .05 boundary* [Poster Presentation]. Annual Meeting of the American Psychological Society, Chicago, Illinois. 
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021). Categorical perception of p-values. *Topics in Cognitive Science*. https://doi.org/10.1111/tops.12589
+
 Rao, V.N.V., Bye, J.K., & Varma, S. (2021^[This paper was awarded the conference's Disciplinary Diversity and Integration Award.]). Categorical perception of p-values. In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* (pp. 168-173). Retrieved from https://escholarship.org/uc/item/7hw3s1rs.
 
 Rao, V.N.V., Bye, J.K., & Varma, S. (2021, July^[This presentation was awarded the conference's best presentation award.]). *More than just a name: The psychological effects of ‘Statistical Significance’* [Oral presentation]. The 36th Annual Psychology Postgraduate Affairs Group Conference, online. Available at https://tinyurl.com/RaoPsyPAG2021
