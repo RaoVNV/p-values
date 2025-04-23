@@ -1,5 +1,5 @@
 ---
-title: "Accepting Uncertainty: Project Page"
+title: "P-value categories: Project Page"
 output: rmdformats::readthedown
 ---
 
@@ -8,47 +8,74 @@ knitr::opts_chunk$set(echo = TRUE)
 library(rmdformats)
 ```
 
-# Project Contributors
+# Project Team
 
 In alphabetical order: 
 
-- Aparajita Vemuri
-- Justin Baker
-- Madeline Hunt
-- Priyadharshini Sriramlatha
-- Samin Hemani
+- Jeffrey K. Bye
+- Sashank Varma
 - [V.N. Vimal Rao](https://raovnv.github.io/research.html)
 
 # Introduction to the Project
 
-In 2019, Wasserstein et al. issued a statement decrying the categorization of *p*-values into so-called *statistically significant* and not statistically significant categories^[Wasserstein, R. L., Schirm, A. L., & Lazar, N. A. (2019). Moving to a World Beyond “p< 0.05”. American Statistician, 73(sup1), 1-19.]. They go further, and envision a world beyond '*p*<.05', and urge researchers to stop using the term *statistically significant* or any other categorization of *p*-values. 
+In 2019, the American Statistical Association issued a statement decrying the categorization of *p*-values into so-called *statistically significant* and not statistically significant categories^[Wasserstein, R. L., Schirm, A. L., & Lazar, N. A. (2019). Moving to a World Beyond “p< 0.05”. American Statistician, 73(sup1), 1-19.]. 
 
-They encourage us to think in terms of "ATOM": 
+They go further, and envision a world beyond '*p*<.05', and urge researchers to stop using the term *statistically significant* or any other categorization of *p*-values. However, moving into a *p*<.05 world may not be so straight forward -- categorization can fundamentally alter the way we perceive stimuli. 
 
-- **A**ccept Uncertainty
-- Be **T**houghtful
-- Be **O**pen
-- Be **M**odest
+In this project, we investigate whether the *statistically significant* category, entrenched in instruction and practice, has had an effect on our cognition, specifically the mental representation of probabilities as *p*-values, and the way we process, encode and retrieve, and think and judge *p*-values.  
 
-However, accepting uncertainty may not feel so comfortable for some people. Personality psychologists describe a trait known as Tolerance of Uncertainty (TU). TU is a domain-stable trait, which reflects an individual's comfort with inherently ambiguous situations.  
-
-If accepting uncertainty is an integral part to doing and learning statistics, and if some people are generally intolerant of uncertainty, does that mean that some people, based on their personality characteristics, will struggle to learn and do statistics? That a personality trait should be related to a students' learning is antithesis to our values as educators. 
-
-In this project, we explore this question, and examine if and how TU is related to students' learning of statistics. 
+We have also extended this work to examine the commonly used *small*, *medium*, and *large* category labels may effect statistical cognition related to the use of effect sizes. 
 
 
 # Current Status
 
-Thus far, we have established that the relationship between students' statistics TU and their understanding varies by type of course (probability-based versus making sense of numbers), and that students' statistics TU is an antecedent of students' statistics anxiety and attitudes towards statistics having both a direct and indirect effect on students' understanding. 
+Having found and replicated categorical boundary effects at *p* = .05 in emerging scientists (beyond those expected by the standard model of numerical cognition), we are currently working on examining whether this categorical bias extends beyond the initial information processing of numerical magnitudes as *p*-values into categorical biases in encoding and retrieval processes. 
 
-Future work will explore the assessment of students' TU, students' beliefs and values about statistics and uncertainty, and what impact interventions may have on students' TU and other psychosocial factors associated with students' learning. 
 
-- Dr. Rao is currently recruiting 1-2 new undergraduate students to work on this project in the Fall 2025 term. Please contact him if you are interested.
+# Publications and Presentations
 
-# Presentations
+## Journal Papers
 
-Hunt, M., Hemani, s., & Rao, V.N.V. (2025, April). *Is tolerance of uncertainty related to statistics understanding?* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+Rao, V.N.V., Bye, J.K., & Varma, S (2024). The psychological reality of the learned “p < 0.05” barrier. *Cognitive Research: Principles and Implications, 9*, 27. [https://doi.org/10.1186/s41235-024-00553-x](https://doi.org/10.1186/s41235-024-00553-x)
 
-Hemani, S., Hunt, M., & Rao, V.N.V. (2025, April). *Accepting uncertainty depends on the statistics curriculum* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022). Categorical perception of p-values. *Topics in Cognitive Science, 14*(2), 414-425. [https://doi.org/10.1111/tops.12589](https://doi.org/10.1111/tops.12589)
 
-Sriramlatha, D., Vemuri, A., & Rao, V.N.V. (2024, April). *Exploring the influence of personality on learning statistics* [Poster Presentation]. University of Illinois Urbana-Champaign Undergraduate Research Symposium, Urbana, IL, USA. 
+
+## Conference Proceedings 
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022). Graduate students’ effect size categorical boundaries. In S.A. Peters, L. Zapata-Cardona, F. Bonafini, & A. Fan (Eds.), *Proceedings of the 11th International Conference on Teaching Statistics* (pp. 1-6). https://doi.org/10.52041/iase.icots11.T3C2.
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021^[This paper was awarded the conference's Disciplinary Diversity and Integration Award.]). Categorical perception of p-values. In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* (pp. 168-173). https://escholarship.org/uc/item/7hw3s1rs.
+
+
+## Conference Presentations
+
+Rao, V.N.V., Fulsher, A., & Bye, J.K. (2024, June). *Boundary effects in graduate students’ memory of the numerical magnitude of p-values* [Poster Presentation]. Annual Meeting of the Mathematical Cognition and Learning Society, Washington, DC, USA.
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022, September). *Graduate students’ effect size categorical boundaries* [Paper Presentation]. The Eleventh International Conference on Teaching Statistics (ICOTS-11), Rosario, Argentina.  
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022, August). *Categorical boundaries in graduate students’ judgment of effect sizes* [Poster Presentation]. Annual Meeting of the American Psychological Association (APA), Minneapolis, Minnesota.
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022, May). *Graduate students in the psychological sciences perceive at categorical boundary when processing p-values across the .05 boundary* [Poster Presentation]. Annual Meeting of the American Psychological Society, Chicago, Illinois. 
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022, April). *Graduate students in the psychological sciences perceive at categorical boundary when processing p-values across the .05 boundary* [Poster Presentation]. University of Minnesota Center for Cognitive Sciences Spring Research Day, Minneapolis, Minnesota.
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022, February). *Graduate students’ effect size category boundaries* [Poster Presentation]. University of Minnesota Department of Educational Psychology Graduate Student Research Day, Minneapolis, Minnesota.
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, July^[This presentation was awarded the conference's best presentation award.]). *More than just a name: The psychological effects of ‘Statistical Significance’* [Oral presentation]. The 36th Annual Psychology Postgraduate Affairs Group Conference, online. Available at https://tinyurl.com/RaoPsyPAG2021
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, July). *Categorical perception of p-values* [Paper presentation]. Annual Meeting of the Cognitive Science Society, Vienna, Austria. Available at https://tinyurl.com/RaoByeVarma2021CogSci
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, April). *The psychological reality of the learned “p < 0.05” barrier* [Paper presentation]. Annual Meeting of the American Educational Research Association, virtual.
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2020, June). *Mental representation of p-values: Does a categorical perception effect exist?* [Poster presentation]. University of Minnesota Center for Cognitive Sciences Spring Research Day, Minneapolis, Minnesota. Retrieved from https://flipgrid.com/eacbc4b5
+
+
+## Invited Talks
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2022, September). *The Psychology of Statistics* [Invited Talk]. Stochastic Modeling and Computational Statistics, Pennsylvania State University, State College, Pennsylvania. Sponsored by Dr. Matthew Beckman and Dr. Stephen Berg. 
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, October). *Statistical Significance and the Categorization of p-values* [Invited Talk]. Percepts and Concepts Lab, Indiana University, Bloomington, Indiana. Sponsored by Dr. Robert Goldstone. 
+
+Rao, V.N.V., Bye, J.K., & Varma, S. (2021, October). *Statistical Significance and the Categorization of p-values* [Invited Talk]. Psychological Foundations of Education Research Talks, University of Minnesota, Minneapolis, Minnesota. Sponsored by Dr. Martin Van Boekel. 
+
